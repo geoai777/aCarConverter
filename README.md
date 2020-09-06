@@ -1,6 +1,6 @@
 # aCarConvertor
-<pretty much python :)>
-Converts data from aCar application into Fuelio compatible csv.
+<pretty much python :)><br>
+Converts data from aCar application into Fuelio compatible csv.<br>
 Wrote it very fast with minimal time waste so there is a space for improvements.
 
 ## How to run
@@ -9,7 +9,7 @@ Linux: No need to explain<br>
 MacOS: Use windows :)
 
 ## Usage
---[ Quick help | Справка ]--
+--[ Quick help | Справка ]--<br>
 In order to use converor you should:
  1. Copy backup from your phone to PC. 
  2. Rename aCar-050920-0707.abp to aCar-050920-0707.abp.zip 
