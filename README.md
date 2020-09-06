@@ -1,6 +1,7 @@
 # aCarConvertor
 <pretty much python :)>
-Converts data from aCar application into Fuelio compatible csv
+Converts data from aCar application into Fuelio compatible csv.
+Wrote it very fast with minimal time waste so there is a space for improvements.
 
 quick_help = "\n--[ Quick help | Справка ]--\
 \nIn order to use converor you should:\
