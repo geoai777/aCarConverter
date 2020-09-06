@@ -66,7 +66,7 @@ try:
 except:
 	print ("\n/!\\ WARINING! File not found, program terminated")
 	print (quick_help)
-	quit()
+	raise SystemExit
 
 print("    event-subtypes.xml...         ", end=" ")
 try:
@@ -75,7 +75,7 @@ try:
 except:
 	print ("\n/!\\ WARINING! File not found, program terminated")
 	print (quick_help)
-	quit()
+	raise SystemExit
 
 root = tree.getroot()
 event_root = event_tree.getroot()
