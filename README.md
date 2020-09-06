@@ -10,7 +10,7 @@ MacOS: Use windows :)
 
 ## Usage
 --[ Quick help | Справка ]--<br>
-In order to use converor you should:
+In order to use convertor you should:
  1. Copy backup from your phone to PC. 
  2. Rename aCar-050920-0707.abp to aCar-050920-0707.abp.zip 
  3. Extract files vehicles.xml and event-subtypes.xml to same folder as this convertor. 
