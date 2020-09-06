@@ -42,7 +42,7 @@ def re_round(value, how_much=0):
 	return rounded_value 
 
 quick_help = "\n--[ Quick help | Справка ]--\
-\nIn order to use converor you should:\
+\nIn order to use convertor you should:\
 \n 1. Copy backup from your phone to PC. \
 \n 2. Rename aCar-050920-0707.abp to aCar-050920-0707.abp.zip \
 \n 3. Extract files vehicles.xml and event-subtypes.xml to same folder as this convertor. \
