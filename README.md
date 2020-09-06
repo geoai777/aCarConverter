@@ -4,8 +4,8 @@ Converts data from aCar application into Fuelio compatible csv.
 Wrote it very fast with minimal time waste so there is a space for improvements.
 
 ## How to run
-Windows: C:\Python37\python.exe convertor.py
-Linux: No need to explain
+Windows: C:\Python37\python.exe convertor.py<br>
+Linux: No need to explain<br>
 MacOS: Use windows :)
 
 ## Usage
